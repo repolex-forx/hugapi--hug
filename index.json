@@ -1,0 +1,11 @@
+{
+  "org": "hugapi",
+  "repo": "hug",
+  "versions": [
+    {
+      "commit": "e4a3fa40f98487a67351311d0da659a6c9ce88a6",
+      "tag": "",
+      "parsed_at": "2026-10-18T09:36:23.340486+00:00"
+    }
+  ]
+}
